@@ -1,7 +1,7 @@
 ---
 name: UHC
-author: CristianCraft99 & BEcraft 
-version: 7.0
+author: XDslapper
+version: 1.0
 api: [2.0.0, 3.0.0-ALPHA6, 3.0.0-ALPHA8]
 main: UHC\Main
 
